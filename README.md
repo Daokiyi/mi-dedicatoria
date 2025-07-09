@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para mi amorcito</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background-color: #fce4ec; /* Rosa claro, puedes cambiarlo */
+            color: #4a148c; /* Morado oscuro, puedes cambiarlo */
+            margin: 20px;
+            padding: 20px;
+        }
+        h1 {
+            color: #880e4f; /* Rosa oscuro, puedes cambiarlo */
+        }
+        .message {
+            margin: 30px auto;
+            max-width: 600px;
+            line-height: 1.6;
+            font-size: 1.1em;
+        }
+        .photo-gallery img {
+            width: 100%;
+            max-width: 300px; /* Tamaño máximo de las fotos */
+            height: auto;
+            margin: 10px;
+            border: 3px solid #880e4f; /* Borde de las fotos */
+            border-radius: 8px; /* Bordes redondeados */
+            box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+        }
+        .spotify-player {
+            margin: 40px auto;
+            max-width: 500px;
+        }
+        footer {
+            margin-top: 50px;
+            font-size: 0.9em;
+            color: #7b1fa2;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>¡Para la persona más hermosa de mi vida!</h1>
+
+    <div class="message">
+        <p>Mi amor,</p>
+        <p>Mi mundo se lleno de alegria y color, gracais a ti mi amor y aun que la espera para poder verte cada dia es menos quiero que sepas que eras la mujer de mi corazon </p>
+        <p>¡Siempre tuyo!,</p>
+        <p>Enrique Blas</p>
+    </div>
+
+    <div class="photo-gallery">
+        <img src=fotos/marycielo1.jpg alt="La mujer de mi corazon">
+        <img src=fotos/enrique1.jpg alt="Un simple mortal">
+        <img src=fotos/marycielo2.jpg alt="La mujer que da color a mi vida">
+        </div>
+
+    <div class="spotify-player">
+	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1HNkqx9Ahdgi1Ixy2xkKkL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+    <footer>
+        <p>Hecho con mucho cariño para ti.</p>
+    </footer>
+
+</body>
+</html>
