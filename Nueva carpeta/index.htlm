@@ -54,9 +54,9 @@
     </div>
 
     <div class="photo-gallery">
-        <img src=fotos/marycielo1.jpg alt="La mujer de mi corazon">
-        <img src=fotos/enrique1.jpg alt="Un simple mortal">
-        <img src=fotos/marycielo2.jpg alt="La mujer que da color a mi vida">
+        <img src=/fotos/marycielo1.jpg alt="La mujer de mi corazon">
+        <img src=/fotos/enrique1.jpg alt="Un simple mortal">
+        <img src=/fotos/marycielo2.jpg alt="La mujer que da color a mi vida">
         </div>
 
     <div class="spotify-player">
