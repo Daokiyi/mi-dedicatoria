@@ -49,7 +49,7 @@
     <div class="message">
         <p>Mi amor,</p>
         <p>Mi mundo se lleno de alegria y color, gracais a ti mi amor y aun que la espera para poder verte cada dia es menos quiero que sepas que eras la mujer de mi corazon </p>
-        <p>¡Siempre tuyo,</p>
+        <p>¡Siempre tuyo!,</p>
         <p>Enrique Blas</p>
     </div>
 
